@@ -17,7 +17,7 @@ staticfiles/
 media/
 
 # Virtual environment
-sdpvenv/
+../sdpvenv/
 pip-wheel-metadata/
 
 # IDE files (for Visual Studio Code)
@@ -30,4 +30,4 @@ __pycache__/
 # Jupyter Notebook
 .ipynb_checkpoints/
 
-otherfiles/
+../otherfiles/
