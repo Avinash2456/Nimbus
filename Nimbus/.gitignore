@@ -1,0 +1,33 @@
+# macOS system files
+.DS_Store
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local development settings
+*.sqlite3
+db.sqlite3
+*.env
+
+# Static and media files
+staticfiles/
+media/
+
+# Virtual environment
+sdpvenv/
+pip-wheel-metadata/
+
+# IDE files (for Visual Studio Code)
+.vscode/
+
+# Compiled Python bytecode
+*.pyc
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+otherfiles/
