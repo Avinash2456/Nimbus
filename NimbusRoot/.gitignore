@@ -17,7 +17,7 @@ staticfiles/
 media/
 
 # Virtual environment
-../sdpvenv/
+../sdpnv/
 pip-wheel-metadata/
 
 # IDE files (for Visual Studio Code)
